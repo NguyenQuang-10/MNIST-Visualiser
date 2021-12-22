@@ -1,0 +1,10 @@
+Day 1:
+- Setting up the project
+- Current 2 big task:
+    + Build a renderer using react
+    + Build the backend
+        . Neural network, parameter 
+        . Server and API (Django)
+
+Project idea after this
+: Trello-liked app embedded in VSCode - someone already did it lul, but not how i want, i want a workflow stored in a file and rendered when clicked on
