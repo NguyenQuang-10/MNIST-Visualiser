@@ -1,0 +1,11 @@
+.dotOutline {
+    border: 1px solid black;
+    height: 3px;
+    width: 3px;
+    border-radius: 50%;
+}
+
+.dotInner {
+    background-color: black;
+    opacity: 0%;
+}

@@ -1,0 +1,15 @@
+dot object:
+    _ init: id
+    - setActivation(0-1, callbackFunc)
+
+board:
+    - init:
+        state: { boardActivation = {array(784)} }
+    - getActivationCallback
+        - setState
+    
+    - setBoard(ndarray)
+        - setState to change array
+
+    *draw board*
+    setActivation according to boardActivation array
